@@ -1,3 +1,8 @@
+---
+name: ci-cd-pipeline-builder
+description: Set up automated CI/CD pipelines with GitHub Actions, ensuring quality gates and automated deployments.
+---
+
 # CI/CD Pipeline Builder Skill
 
 Auto-activated when user asks to setup CI/CD, create pipeline, or "GitHub Actions workflow".
