@@ -1,3 +1,8 @@
+---
+name: architecture-decisions
+description: Document architecture decisions using Architecture Decision Records (ADRs) with context, alternatives, and consequences.
+---
+
 # Architecture Decisions Skill
 
 Auto-activated when user asks to create ADRs, document decisions, or "create an ADR".
