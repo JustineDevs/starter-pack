@@ -1,3 +1,8 @@
+---
+name: tech-stack-selector
+description: Make informed technology decisions with structured frameworks, decision matrices, and recommendations based on constraints.
+---
+
 # Tech Stack Selector Skill
 
 Auto-activated when user asks about technology choices, stack selection, or "what tech should we use?"
