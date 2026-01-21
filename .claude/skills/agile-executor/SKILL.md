@@ -1,3 +1,8 @@
+---
+name: agile-executor
+description: Execute Agile methodologies effectively through sprint planning, retrospectives, and ceremony facilitation.
+---
+
 # Agile Executor Skill
 
 Auto-activated when user asks about sprint planning, retrospectives, standups, or "plan sprint".
