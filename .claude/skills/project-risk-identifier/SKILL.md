@@ -1,3 +1,8 @@
+---
+name: project-risk-identifier
+description: Identify, assess, and mitigate project risks through structured risk analysis frameworks.
+---
+
 # Project Risk Identifier Skill
 
 Auto-activated when user asks to identify risks, risk assessment, or "what are the risks?"
