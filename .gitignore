@@ -64,3 +64,6 @@ next-env.d.ts
 # Large LLM outputs (optional - uncomment if context/ gets too large)
 # context/content/**/*.md
 # context/output/**/*.md
+
+skills-reference
+skills-reference/*
