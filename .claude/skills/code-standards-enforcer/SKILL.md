@@ -1,3 +1,8 @@
+---
+name: code-standards-enforcer
+description: Ensure code quality or perform code reviews through comprehensive checklists and standards enforcement.
+---
+
 # Code Standards Enforcer Skill
 
 Auto-activated when user asks about code review, quality standards, or "code review checklist".
